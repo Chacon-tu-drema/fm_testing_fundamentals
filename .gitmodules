@@ -1,0 +1,3 @@
+[submodule "testing-fundamentals"]
+	path = testing-fundamentals
+	url = https://github.com/mhevery/testing-fundamentals.git
